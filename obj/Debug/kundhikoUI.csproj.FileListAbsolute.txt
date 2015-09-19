@@ -1,0 +1,5 @@
+C:\EnetData\Development\kundhikoUI\kundhikoUI\bin\kundhikoUI.dll
+C:\EnetData\Development\kundhikoUI\kundhikoUI\bin\kundhikoUI.pdb
+C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.csprojResolveAssemblyReference.cache
+C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.dll
+C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.pdb
