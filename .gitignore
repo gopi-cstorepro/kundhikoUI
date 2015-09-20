@@ -42,8 +42,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+<<<<<<< HEAD
 bin/kundhikoUI.dll
 bin/kundhikoUI.dll
 *.pdb
 bin/kundhikoUI.pdb
 obj/Debug/kundhikoUI.dll
+=======
+>>>>>>> origin/master

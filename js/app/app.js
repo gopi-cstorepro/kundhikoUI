@@ -1,3 +1,4 @@
+﻿
 ﻿var strCONST_qcserverURL = 'http://localhost:55922/';
 $(document).ready(function () {
     $(document).on("click", "#btnCreateUser", function (e) {
