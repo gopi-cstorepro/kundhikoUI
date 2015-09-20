@@ -44,3 +44,6 @@ Temporary Items
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 bin/kundhikoUI.dll
 bin/kundhikoUI.dll
+*.pdb
+bin/kundhikoUI.pdb
+obj/Debug/kundhikoUI.dll
