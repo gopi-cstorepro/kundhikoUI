@@ -17,6 +17,10 @@
                 padding-top: 50px;
                 padding-bottom: 20px;
             }
+            .pad-top
+            {
+               padding-top: 20px;
+            }
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
@@ -43,9 +47,9 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav  navbar-right">
-                <li class="active"><a href="#"><i class="glyphicon glyphicon-home">&#160;&#160;Home</i></a></li>
-                <li><a href="#"><i class="glyphicon glyphicon-search">&#160;&#160;Search</i></a></li>
-                <li><a href="#""><i class="glyphicon glyphicon-envelope">&#160;&#160;Notifications</i></a></li>
+                <li class="active"><a href="/index.html"><i class="glyphicon glyphicon-home">&#160;&#160;Home</i></a></li>
+                <li><a href="/search.html"><i class="glyphicon glyphicon-search">&#160;&#160;Search</i></a></li>
+                <li><a href="/notification.html"><i class="glyphicon glyphicon-envelope">&#160;&#160;Notifications</i></a></li>
                 </ul>                
             </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -53,10 +57,14 @@
                     
     <div class="container">
         <!-- Example row of columns -->
-        <div class="row">
+        <div class="row  pad-top">
             <div class="col-md-4">
-                <h3>Passenger</h3>
-                <form class="form-horizontal">
+                
+                <div class="btn-group btn-group-justified" role="group" aria-label="Justified button group">
+                    <a href="/driverinfo.html" class="btn btn-default" role="button">Driver</a>
+                    <a href="/passengerinfo.html" class="btn  btn-primary active" role="button">Passenger</a>
+                </div>
+                <form class="form-horizontal pad-top">
 
                     <div class="form-group">
                         <label for="txtname" class="col-sm-2 control-label hidden-xs">Name</label>
@@ -107,7 +115,7 @@
                         </div>
                     </div>
 
-                    <button type="submit" class="btn btn-success">Create ride</button>
+                    <button type="submit" class="btn btn-success pull-right">Request ride</button>
                 </form>
             </div>
         </div>
