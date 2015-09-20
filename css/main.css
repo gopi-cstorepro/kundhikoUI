@@ -4,9 +4,130 @@
    Author's custom styles
    ========================================================================== */
 
+.EnetUI-PadAll
+{
+    padding: 10px;
+}
+.EnetUI-PadAll-Small
+{
+    padding: 5px;
+}
+.EnetUI-PadAll-Small-XX
+{
+    padding: 3px;
+}
+.EnetUI-PadAll-Large
+{
+    padding: 15px;
+}
+.EnetUI-PadAll-Large-XX
+{
+    padding: 25px;
+}
 
+.EnetUI-PadTop
+{
+    padding-top: 10px;
+}
+.EnetUI-PadTop-Small
+{
+    padding-top: 5px;
+}
+.EnetUI-PadTop-Small-XX
+{
+    padding-top: 3px;
+}
+.EnetUI-PadTop-Large
+{
+    padding-top: 15px;
+}
+.EnetUI-PadTop-Large-XX
+{
+    padding-top: 25px;
+}
 
+.EnetUI-PadBottom
+{
+    padding-bottom: 10px;
+}
+.EnetUI-PadBottom-Small
+{
+    padding-bottom: 5px;
+}
+.EnetUI-PadBottom-Small-XX
+{
+    padding-bottom: 3px;
+}
+.EnetUI-PadBottom-Large
+{
+    padding-bottom: 15px;
+}
+.EnetUI-PadBottom-Large-XX
+{
+    padding-bottom: 25px;
+}
 
+.EnetUI-PadLeft
+{
+    padding-left: 10px;
+}
+.EnetUI-PadLeft-Small
+{
+    padding-left: 5px;
+}
+.EnetUI-PadLeft-Small-XX
+{
+    padding-left: 3px;
+}
+.EnetUI-PadLeft-Large
+{
+    padding-left: 15px;
+}
+.EnetUI-PadLeft-Large-XX
+{
+    padding-left: 25px;
+}
+
+.EnetUI-PadRight
+{
+    padding-right: 10px;
+}
+.EnetUI-PadRight-Small
+{
+    padding-right: 5px;
+}
+.EnetUI-PadRight-Small-XX
+{
+    padding-right: 3px;
+}
+.EnetUI-PadRight-Large
+{
+    padding-right: 15px;
+}
+.EnetUI-PadRight-Large-XX
+{
+    padding-right: 25px;
+}
+.EnetUI-Margin-Small
+{
+    margin:10px
+}
+.EnetUI-Margin-Small-XX
+{
+    margin:5px
+}
+.EnetUI-Margin-Large
+{
+    margin:20px 
+}
+.EnetUI-Margin-Large-XX
+{
+    margin:25px
+}
+.EnetUI-Margin-Large-NoTop
+{
+    margin:0px 20px 20px 20px
+}
 
 
 
