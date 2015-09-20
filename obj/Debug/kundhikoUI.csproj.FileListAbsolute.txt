@@ -3,3 +3,8 @@ C:\EnetData\Development\kundhikoUI\kundhikoUI\bin\kundhikoUI.pdb
 C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.csprojResolveAssemblyReference.cache
 C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.dll
 C:\EnetData\Development\kundhikoUI\kundhikoUI\obj\Debug\kundhikoUI.pdb
+C:\TrailApp\kundhikoUI\bin\kundhikoUI.dll
+C:\TrailApp\kundhikoUI\bin\kundhikoUI.pdb
+C:\TrailApp\kundhikoUI\obj\Debug\kundhikoUI.csprojResolveAssemblyReference.cache
+C:\TrailApp\kundhikoUI\obj\Debug\kundhikoUI.dll
+C:\TrailApp\kundhikoUI\obj\Debug\kundhikoUI.pdb

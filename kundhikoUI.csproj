@@ -67,12 +67,16 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
+    <Content Include="js\app\app.js" />
     <Content Include="js\main.js" />
     <Content Include="js\vendor\bootstrap.js" />
     <Content Include="js\vendor\bootstrap.min.js" />
     <Content Include="js\vendor\jquery-1.11.2.min.js" />
     <Content Include="js\vendor\modernizr-2.8.3-respond-1.4.2.min.js" />
     <Content Include="js\vendor\npm.js" />
+    <Content Include="passengerInfo.html" />
+    <Content Include="result.html" />
+    <Content Include="search.html" />
     <Content Include="tile-wide.png" />
     <Content Include="tile.png" />
     <Content Include="Web.config" />
