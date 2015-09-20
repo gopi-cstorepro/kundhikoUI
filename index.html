@@ -62,17 +62,17 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4 col-xs-12">
-            <form class="" role="form">
+            <form class="" id="frmCreateUser" method="post" role="form">
             <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
+              <input name="txtEmailAddress" type="text" placeholder="Email" class="form-control">
             </div>
             <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
+              <input name="txtPassword" type="password" placeholder="Password" class="form-control">
             </div>
                 
                 <div class="pull-right">
             <button type="submit" class="btn btn-default">Sign up</button>
-            <button type="submit" class="btn btn-primary">Sign in</button></div>
+            <button id="btnCreateUser" type="submit" class="btn btn-primary">Sign in</button></div>
           </form>
         </div>
       </div>
@@ -96,6 +96,7 @@
 
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="js/app/app.js" type="text/javascript"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
